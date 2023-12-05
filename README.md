@@ -1,7 +1,7 @@
-<h1>Aura SPA</h1>
+<h1>Culturama</h1>
 
 <h2> Sobre</h2>
-<p>Projeto desenvolvido para um SPA fictício chamado "Aura SPA", usando o SASS/SCSS que é uma extensão do CSS</p>
+<p>Projeto desenvolvido para um site de Eventos, aperfeiçoando as técnicas de Flex e Grid.</p>
 
 ##  Tecnologias
 <div>
